@@ -181,10 +181,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 
 **Purushotham E**  
-[GitHub](https://github.com/purushotham2628) ・ [LinkedIn](https://linkedin.com/in/purushotham2628) ・ [Email](mailto:purushotham2628@gmail.com)
+[GitHub](https://github.com/purushotham2628) ・ [LinkedIn](https://linkedin.com/in/purushotham2628) ・ [Email](mailto:krishnakanthurskm.com)
 
 ---
 
 ### ⭐ Star this repo if you like it!
 
 **Made with ❤️ by [Purushotham E](https://github.com/purushotham2628)**
+
