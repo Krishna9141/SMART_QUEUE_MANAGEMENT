@@ -166,9 +166,7 @@ npm run dev
 
 ---
 
-### ⭐ Star this repo if you like it!
 
-**Made with ❤️ by [Krishna Kanth Urs K M](https://github.com/purushotham2628)**
 
 
 
