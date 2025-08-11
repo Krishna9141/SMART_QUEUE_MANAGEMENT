@@ -180,12 +180,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Purushotham E**  
-[GitHub](https://github.com/purushotham2628) ・ [LinkedIn](https://linkedin.com/in/purushotham2628) ・ [Email](mailto:krishnakanthurskm.com)
+**Krishna Kanth Urs K M**  
+[GitHub](https://github.com/purushotham2628) ・ [LinkedIn](https://linkedin.com/in/purushotham2628) ・ [Email](mailto:krishnakanthurs@gmailcom)
 
 ---
 
 ### ⭐ Star this repo if you like it!
 
-**Made with ❤️ by [Purushotham E](https://github.com/purushotham2628)**
+**Made with ❤️ by [Krishna Kanth Urs K M](https://github.com/purushotham2628)**
+
 
