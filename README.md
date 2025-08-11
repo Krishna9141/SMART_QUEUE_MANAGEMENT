@@ -157,11 +157,6 @@ npm run dev
 | `POST` | `/api/process-next/:queueId` | Process next in queue |
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.
-
 ---
 
 ## 👨‍💻 Author
@@ -174,6 +169,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### ⭐ Star this repo if you like it!
 
 **Made with ❤️ by [Krishna Kanth Urs K M](https://github.com/purushotham2628)**
+
 
 
 
