@@ -113,20 +113,6 @@ smart-queue-management/
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Authentication Page
-![Login Page](./assets/screenshots/login.jpg)
-
-### 📝 Registration Page
-![Register Page](./assets/screenshots/register.jpg)
-
-### 👥 Customer Queue Dashboard
-![Customer Dashboard](./assets/screenshots/customer_dashboard.jpg)
-
-### 🧑‍💼 Admin Queue Dashboard
-![Admin Dashboard](./assets/screenshots/admin_dashboard.jpg)
-
 ---
 
 ## ⚙️ Quick Start
@@ -188,5 +174,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### ⭐ Star this repo if you like it!
 
 **Made with ❤️ by [Krishna Kanth Urs K M](https://github.com/purushotham2628)**
+
 
 
