@@ -159,12 +159,6 @@ npm run dev
 ---
 ---
 
-## 👨‍💻 Author
-
-**Krishna Kanth Urs K M**  
-[GitHub](https://github.com/purushotham2628) ・ [LinkedIn](https://linkedin.com/in/purushotham2628) ・ [Email](mailto:krishnakanthurs@gmailcom)
-
----
 
 
 
